@@ -1,1 +1,1 @@
-# exercise-6
+# Exercise-6
